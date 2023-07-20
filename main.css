@@ -1,0 +1,11 @@
+.objetoClick.tachado {
+    text-decoration: line-through;
+}
+
+#listagem {
+    cursor: pointer;
+}
+
+#btnCadastrar {
+    cursor: pointer;
+}
